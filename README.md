@@ -23,6 +23,9 @@ https://github.com/ejigjo/library_system/blob/main/images/title.png
 帳號:qwe789  
 密碼:qwe789  
 
+##DaoImpl設計全部只需要輸入SQL語法與物件屬性  
+![Image](https://github.com/user-attachments/assets/13652d2b-8d24-4d16-9d30-dea881304687)
+
 ## 專案結構  
 ![Image](https://github.com/user-attachments/assets/4d648593-2ec2-4197-8e24-59bb6a5fb131)
 ## 主要練習內容:
